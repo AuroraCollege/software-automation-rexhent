@@ -33,10 +33,13 @@
         "workbench.editorAssociations": {
           "*.md": "vscode.markdown.preview.editor"
         },
-        "workbench.colorTheme": "Default Light+",
+        "workbench.colorTheme": "Default Dark+",
         "workbench.iconTheme": "icons",
         "editor.fontFamily": "JetBrains Mono",
         "terminal.integrated.fontFamily": "monospace"
+        "github.copilot.enable": {
+      		"python": false,
+      	}
       },
       "extensions": [
         "McCarter.start-git-bash",
