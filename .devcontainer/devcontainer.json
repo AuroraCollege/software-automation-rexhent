@@ -36,7 +36,7 @@
         "workbench.colorTheme": "Default Dark+",
         "workbench.iconTheme": "icons",
         "editor.fontFamily": "JetBrains Mono",
-        "terminal.integrated.fontFamily": "monospace"
+        "terminal.integrated.fontFamily": "monospace",
         "github.copilot.enable": {
       		"python": false,
       	}
